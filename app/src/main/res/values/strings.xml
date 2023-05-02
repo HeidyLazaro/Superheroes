@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Iron Man</string>
+    <string name="description1">Volar, lanzar rayos desde sus manos y su pecho, todo esto con su traje o parte de él</string>
+    <string name="hero2">Avispa</string>
+    <string name="description2">Tamaño-Redudante, el vuelo (cuando pequeño), la bioelectricidad</string>
+    <string name="hero3">Ojo de halcon</string>
+    <string name="description3">Gran habilidad y puntería al lanzar flechas</string>
+    <string name="hero4">Pantera negra</string>
+    <string name="description4">Garras de Vibranium</string>
+    <string name="hero5">Thor</string>
+    <string name="description5">Es un asgardiano, el es llamado el dios nordico del trueno y un poderoso guerrero en Asgard.</string>
+    <string name="hero6">Capitan America</string>
+    <string name="description6">Escudo de Bibranium</string>
+</resources>
